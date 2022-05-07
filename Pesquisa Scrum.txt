@@ -1,5 +1,7 @@
 AULA 2- 30/04/2022
 
+oioiioioioioioio
+
 Faça uma pesquisa da definição de cada um dos termos ao lado em um arquivo de texto.
 
 O QUE É SPRINT?- Sprint é um conceito utilizado em Scrum, uma metodologia de gerenciamento de projetos, e representa um dos pilares do projeto em desenvolvimento baseado nessa metodologia, consistindo em casa uma das etapas de um projeto, determinadas em espaços específicos de tempo.
