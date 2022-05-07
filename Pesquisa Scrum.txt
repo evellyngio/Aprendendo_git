@@ -1,0 +1,27 @@
+AULA 2- 30/04/2022
+
+Faça uma pesquisa da definição de cada um dos termos ao lado em um arquivo de texto.
+
+O QUE É SPRINT?- Sprint é um conceito utilizado em Scrum, uma metodologia de gerenciamento de projetos, e representa um dos pilares do projeto em desenvolvimento baseado nessa metodologia, consistindo em casa uma das etapas de um projeto, determinadas em espaços específicos de tempo.
+
+O QUE É PRODUCT BACKLOG- Um Product Backlog é uma lista priorizada, contendo breves descrições de todas as funcionalidades desejadas para o produto. Em projetos ágeis não é necessário iniciar um projeto com um esforço inicial demorado, coletando e documentando todos os requisitos de uma vez. Normalmente, a equipe e o Product Owner (dono do produto) escrevem e priorizam os itens iniciais do Product Backlog, sendo esses itens suficientes para que a equipe inicie a primeira iteração. O Product Backlog irá crescer e mudar à medida em que se aprende mais sobre o produto e sobre o cliente.
+
+O QUE É SPRINT PLANNING- O evento tem um timebox (tamanho máximo) de 8 horas para Sprints de 30 dias e geralmente utiliza de menos tempo para Sprints menor duração. Os participantes são todos os membros do Time Scrum: Product Owner, Scrum Master e Development Team. Assim como em todos os eventos do Scrum, na Planning temos um input (entrada de informações), um processamento (entendimento, discussão e tomada de decisão) e um output (saída de um plano).
+
+O QUE É SPRINT BACKLOG- O Sprint Backlog representa tudo o que deverá ser feito durante a próxima Sprint do seu projeto. Ele surge a partir do que foi levantado e listado, pelo Product Owner, no Product Backlog. A maioria dos itens que estão no Product Backlog serão implementadosum dia, mas para serem considerados para fazer parte do Sprint Backlog eles devem estar preparados, estimados e priorizados, segundo a definição de preparado estabelecida no início do projeto.
+
+O QUE É DAILY MEETING- A famosa Daily Scrum, também conhecida por Reuniões diárias, Daily Meeting, Stand-Up Meeting, Daily Stand-Up ou até mesmo Scrum Diário é uma reunião diária, de 15 minutos, para discutir o que foi feito, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar. 
+
+O QUE É SPRINT REVIEW- A Sprint Review é o penúltimo evento da Sprint, geralmente acontece no seu último dia e tem por objetivo a inspeção do Incremento de Produto desenvolvido naquela Sprint e adaptação do Product Backlog caso necessário.
+Esse é o único evento no qual, por definição, temos a participação de pessoas externas ao Time Scrum. Esses “envolvidos” na criação do produto, seja um patrocinador, membro da área usuária, parte da governança corporativa, compliance ou qualquer papel que tenha interesse e influência sobre o escopo da solução, devem ser convidados pelo PO para estarem presentes.
+Portanto, o fórum participante da Sprint Review é todo o Scrum Team (PO, SM e Dev Team) e os Stakeholders. A ideia é que todos deem feedback sobre o que já foi feito, troquem informação, discutam as oportunidades de mercado para o produto e colaborarem sobre o que vem a seguir.
+
+O QUE É SPRINT RETROSPECTIVE- Elas são os períodos curtos em que a equipe trabalha para concluir uma determinada demanda. Para isso, elas devem ter um bom planejamento para definir o que será entregue e como a execução será feita.
+Um dos fundamentos da metodologia ágil é o aprimoramento constante do trabalho das equipes. Ou seja, fazer com que os colaboradores busquem formas contínuas de aumentar a sua produtividade.
+Para alcançar essa meta, a retrospectiva tem papel importante no processo, já que é a última cerimônia da sprint. 
+Ela é uma reunião que serve para fazer um levantamento do que funcionou, do que não deu certo, do que deve ser melhorado e como fazer diferente na próxima etapa.
+
+O QUE É SCRUM MASTER- O Scrum Master é o líder da equipe Scrum, sendo o responsável por defender o projeto, fornecendo orientação à equipe e ao proprietário do negócio para garantir que todas as práticas sejam seguidas. Além de abordar as facetas do processo de desenvolvimento ágil, o Scrum Master facilita a comunicação e a colaboração entre todos os envolvidos no projeto.
+
+O QUE É PRODUCT OWNER- O Product Owner trabalha utilizando Scrum para agregar valor ao negócio frente aos stakeholders.
+Ele é responsável por obter o valor máximo possível ao custo mínimo. Além disso, o Product Owner também é encarregado pelo portfólio de produtos, conhecido como Product Backlog. Por esse motivo, ele entende as necessidades dos usuários da empresa.........
